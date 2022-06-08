@@ -3,7 +3,7 @@
 
 _*translated from idjit_
 
-Christian Orion Bartholow, C.O. B. + Guitar Hero AI = COBAC
+Christian Orion Bartholow, C.O. B. + Guitar Hero AI = COBAC  
 Cobac _colloquial_  
 CobacTheGreat  
 _The Great Beef Insurrection of 2021_  
@@ -31,13 +31,14 @@ Bogan
 
 ####Active Aliases  
 PeanutButterHogan **best Hogan**  
-CobacTheCheese _Stuffed Crust Cobac_
-CobacTheVile _whereabouts currently unknown across Verdansk and Caldera, last spotted upon the Sea of Thieves_  
+CobacTheCheese _Stuffed Crust Cobac_  
+CobacTheVile  
+_whereabouts currently unknown across Verdansk and Caldera, last spotted upon the Sea of Thieves_  
 CobacTheMid  
-Cobac the NonFungibleToken 
-CobacTheDingo
-CobacTheChops
-CobacTheDad
+Cobac the NonFungibleToken  
+CobacTheDingo  
+CobacTheChops  
+CobacTheDad  
 CobacTheDeceased  
 CobacTheReturned  
 
