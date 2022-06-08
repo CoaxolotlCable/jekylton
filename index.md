@@ -5,8 +5,8 @@ date: 2019-10-03
 ---
 
 {% include jumbotron.html
-  title="Cobac Lore"
-  text="This site is a historical repository for all known lore and legend about the rise and fall of Cobac "
+  title="Official Cobac Lore"
+  text="This site is the historical repository for the legend of the rise and fall of Cobac "
   caption=""
   image="/assets/images/tent-rocks.jpg"
 %}
