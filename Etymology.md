@@ -1,5 +1,5 @@
 ## Etymology of the Cobac has been studied for years by scholars  
-#### _Not until recently_ the **DingoFiles** were found in a lost **Apple Notes** archive  
+#### **Not until recently** the _DingoFiles_ were found in a lost **Apple Notes Archive**  
 
 _*translated from idjit_
 
