@@ -1,3 +1,9 @@
+---
+title: Credits
+layout: base
+date: 2019-10-05
+---
+
 ## Etymology of the Cobac has been studied for years by scholars  
 #### **Not until recently** the _DingoFiles_ were found in a lost **Apple Notes Archive**  
 
