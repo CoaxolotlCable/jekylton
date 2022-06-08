@@ -1,9 +1,9 @@
-##Etymology of the Cobac has been studied for years by scholars  
-####_Not until recently_ the **DingoFiles** were found in a lost **Apple Notes** archive  
+## Etymology of the Cobac has been studied for years by scholars  
+#### _Not until recently_ the **DingoFiles** were found in a lost **Apple Notes** archive  
 
 _*translated from idjit_
 
-Christian Orion Bartholow, C.O. B. + Guitar Hero AI = COBAC  
+Christian Orion Bartholow, C.O. B. + Guitar Hero AI = **COBAC**    
 Cobac _colloquial_  
 CobacTheGreat  
 _The Great Beef Insurrection of 2021_  
@@ -15,7 +15,7 @@ CobacTheDeLorean
 CobacTheThanksgiving _secret lore_  
 CobacTheCereal  
 
-####Derivations, Alterations, and Non-Literal Translations  
+#### Derivations, Alterations, and Non-Literal Translations  
 Bobac  
 Bob
 Beauxbs
@@ -29,8 +29,8 @@ CobacTheUnglued
 CobacTheClosedGastrointestinalTract  
 Bogan
 
-####Active Aliases  
-PeanutButterHogan **best Hogan**  
+#### Active Aliases  
+PeanutButterHogan  **best Hogan**  
 CobacTheCheese _Stuffed Crust Cobac_  
 CobacTheVile  
 _whereabouts currently unknown across Verdansk and Caldera, last spotted upon the Sea of Thieves_  
@@ -42,7 +42,7 @@ CobacTheDad
 CobacTheDeceased  
 CobacTheReturned  
 
-####The Curse of Cobac  
+#### The Curse of Cobac  
 _Known Retired Aliases_  
 CobacTheGreat  
 Faze_Bill_Hogan  
