@@ -7,6 +7,14 @@ date: 2019-10-05
 ## Etymology of the Cobac has been studied for years by scholars  
 #### **Not until recently** the _DingoFiles_ were found in a lost **Apple Notes Archive**  
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="The Beginning"
+  image-url="justinbeaverlake.JPG"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}  
+
 _*translated from idjit_
 
 Christian Orion Bartholow, C.O. B. + Guitar Hero AI = **COBAC**    
