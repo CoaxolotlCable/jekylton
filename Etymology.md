@@ -51,18 +51,6 @@ CobacTheUnglued
 CobacTheClosedGastrointestinalTract  
 Bogan
 
-
-
-
-
-{% include figure.html
-  class="img-right"
-  width="23%"
-  caption="The Rise of Beef"
-  image-url="riseofbeef.JPG"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
-%}  
-
 #### Active Aliases  
 PeanutButterHogan  **best Hogan**  
 CobacTheCheese _Stuffed Crust Cobac_  
@@ -75,6 +63,14 @@ CobacTheChops
 CobacTheDad  
 CobacTheDeceased  
 CobacTheReturned  
+
+{% include figure.html
+  class="img-right"
+  width="23%"
+  caption="The Rise of Beef"
+  image-url="riseofbeef.JPG"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}  
 
 #### The Curse of Cobac  
 _Known Retired Aliases_  
