@@ -9,7 +9,7 @@ date: 2019-10-05
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="23%"
   caption="The Beginning"
   image-url="justinbeaverlake.JPG"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
@@ -28,6 +28,14 @@ CobacTheWheat
 CobacTheDeLorean  
 CobacTheThanksgiving _secret lore_  
 CobacTheCereal  
+
+{% include figure.html
+  class="img-right"
+  width="23%"
+  caption="The Beginning"
+  image-url="MorningCobs.JPG"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}  
 
 #### Derivations, Alterations, and Non-Literal Translations  
 Bobac  
