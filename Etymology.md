@@ -55,7 +55,7 @@ Bogan
   class="img-right"
   width="23%"
   caption="The Rise of Beef"
-  image-url="justinbeaverlake.JPG"
+  image-url="riseofbeef.JPG"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}  
 
