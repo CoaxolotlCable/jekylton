@@ -32,7 +32,7 @@ CobacTheCereal
 {% include figure.html
   class="img-right"
   width="23%"
-  caption="The Beginning"
+  caption="The Mind of Cobac"
   image-url="MorningCobs.JPG"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}  
