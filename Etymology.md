@@ -15,9 +15,9 @@ date: 2019-10-05
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}  
 
-_*translated from idjit_
+_*translated_
 
-Christian Orion Bartholow, C.O. B. + Guitar Hero AI = **COBAC**    
+C.O. B. + Guitar Hero AI = **COBAC**    
 Cobac _colloquial_  
 CobacTheGreat  
 _The Great Beef Insurrection of 2021_  
