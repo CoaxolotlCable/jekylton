@@ -53,7 +53,7 @@ Bogan
 
 {% include figure.html
   class="img-right"
-  width="23%"
+  width="43%"
   caption="The Rise of Beef"
   image-url="riseofbeef.JPG"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
