@@ -51,9 +51,13 @@ CobacTheUnglued
 CobacTheClosedGastrointestinalTract  
 Bogan
 
+
+
+
+
 {% include figure.html
   class="img-right"
-  width="43%"
+  width="23%"
   caption="The Rise of Beef"
   image-url="riseofbeef.JPG"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
