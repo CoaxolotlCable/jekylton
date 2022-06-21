@@ -5,12 +5,12 @@ date: 2019-10-03
 ---
 
 {% include jumbotron.html
-  title="Official Cobac Lore"
-  text="This site is the historical repository for the legend of the rise and fall of Cobac "
+  title="Jekylton"
+  text="Use this site skeleton and its guides to build your digital history website "
   caption=""
+  image="/assets/images/tent-rocks.jpg"
 %}
-{% image="/assets/images/IMG_6892.png"
-%}
+
 
 This is your home page! It's the `index.md` file in the repository.
 
