@@ -32,7 +32,7 @@ These instructions explain how a GitHub Pages site works. It describes files and
 - Name your repository. I'd recommend `jekylton` for now. You can always rename it later or delete it and start over
 - Go into the settings menu (the gear menu on the right of the top nav bar)
 - Scroll down to section titled "GitHub Pages" (the penultimate section)
-- Select / from master branch
+- Select / from master branch and click save
 - Note the URL that appears there in the form of http://USERNAME.github.io/jekylton. Replace USERNAME with  your GitHub username, like http://fwgibbs.github.io/jeklyton
 - Click on that URL, and you'll likely get a Page Not Found error.
 - Wait a minute for GitHub to build your site, and refresh the page (Ctrl or Cmd R).
@@ -80,7 +80,7 @@ Now that we've looked at a page, let's see what else is in the repository. Go to
 This directory hold files that are typically small bits of code that appear on more than one page, like a nav bar or footer. This way, if you want to change the footer on all your site pages, you can change it in just one spot.
 
 ### `_layouts` directory
-This directory provides the basic layouts for different kinds of pages. We want all our pages to have well-formed HTML, which means they need to start with `<!DOCTYPE html>`. So you see that's the first line of code on the
+This directory provides the basic layouts for different kinds of pages. We want all our pages to have well-formed HTML, which means they need to start with `<!DOCTYPE html>`. So you see that's the first line of code on the page.
 
 These pages will include bits of code from the `_includes` directory to assemble a complete webpage.  
 
@@ -119,7 +119,8 @@ This directory could be named anything--it's just a place to put separate essays
 - Click on the `_includes` directory
 - Click on `nav.html`
 - Click on the edit icon (looks like a pencil)
-- Duplicate (via copy and paste) on of the lines that contains a link to a page on your site
+- Duplicate (via copy and paste) the lines that contains a link to a page on your site, lines 13 and 55.
+- Replace 'directory' with your .md file name.
 - Replace the old link with the name of the page you just created but WITHOUT the `.md` extension
 - Hit the green Commit button near the bottom of the page
 
@@ -127,7 +128,7 @@ This directory could be named anything--it's just a place to put separate essays
 
 
 ## Edit the base template
-Jekyll uses layouts and includes to reuse common components across your site
+Jekylton uses layouts and includes to reuse common components across your site
 You'll notice in the YAML header for the index page, there is a line layout: base
 Let's look at the base template, which of course is in the templates directory
 
