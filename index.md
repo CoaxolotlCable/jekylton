@@ -17,24 +17,24 @@ After excruciating labor and sisyphean research into the origins and alternative
 
 {% include figure.html
 class="img-left"
-width="30%"
-caption="Here's an image on the left."
-image-url="Herder.jpg"
-source-url=""
-%}
-{% include figure.html
-class="img-right"
-width="30%"
-caption="Here's an image on the left."
-image-url="Herder.jpg"
-source-url=""
+width="33%"
+caption="Da Bois Droppin n' Poppin."
+image-url="droppin.jpg"
+source-url="https://oneesports.azureedge.net/cdn-data/2021/04/CallOfDuty_Warzone_Season3_GoraSummit-1024x576.jpg"
 %}
 {% include figure.html
 class="img-center"
-width="30%"
-caption="Here's an image on the left."
+width="33%"
+caption="Caldera Sniper Nest."
+image-url="snipes.jpg"
+source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzone-caldera-season-one-map-intel"
+%}
+{% include figure.html
+class="img-right"
+width="33%"
+caption="Rebirth Island."
 image-url="Herder.jpg"
-source-url=""
+source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
 %}  
 
 For more information about how to add features to your pages, see the [getting started guide](guides/getting-started), as well as the [loading images](guides/loading-images) and [code](guides/code) guides.
