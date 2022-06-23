@@ -8,7 +8,7 @@ date: 2019-10-03
   title="Official Cobac Lore"
   text="This site is the ultimate lexicon of any and all available Lore, Mythos, and Legend of the inexorable Cobac "
   caption=""
-  image="/assets/images/tent-rocks.jpg"
+  image="/assets/images/IMG_6892.PNG"
 %}
 
 
