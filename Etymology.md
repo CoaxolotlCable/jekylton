@@ -12,7 +12,7 @@ date: 2019-10-05
   width="23%"
   caption="The Beginning"
   image-url="justinbeaverlake.JPG"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="https://www.twitch.tv/cobacthegreat/clips?filter=clips&range=all"
 %}  
 
 _*translated_
@@ -34,7 +34,7 @@ CobacTheCereal
   width="23%"
   caption="The Mind of Cobac"
   image-url="MorningCobs.JPG"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  source-url="https://www.twitch.tv/cobacthegreat/clips?filter=clips&range=all"
 %}  
 
 #### Derivations, Alterations, and Non-Literal Translations  
