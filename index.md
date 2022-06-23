@@ -27,21 +27,21 @@ After excruciating labor and sisyphean research into the origins and alternative
 class="img-left"
 width="30%"
 caption="Da Bois Droppin n' Poppin."
-image="/assets/images/droppin.jpg"
+image=""
 source-url="https://oneesports.azureedge.net/cdn-data/2021/04/CallOfDuty_Warzone_Season3_GoraSummit-1024x576.jpg"
 %}
 {% include figure.html
 class="img-center"
 width="30%"
 caption="Caldera Sniper Nest."
-image="/assets/snipes.jpg"
+image=""
 source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzone-caldera-season-one-map-intel"
 %}
 {% include figure.html
 class="img-right"
 width="30%"
 caption="Rebirth Island."
-image="/assets/Rebirth-Island-Water-Tower.jpg"
+image=""
 source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
 %}  
 
