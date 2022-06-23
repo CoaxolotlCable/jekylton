@@ -14,24 +14,32 @@ date: 2019-10-03
 
 After excruciating labor and sisyphean research into the origins and alternative stylings of CobacLore, this expansive virtual tome of knowledge of the unknowlable will be a lighthouse of information to those who have trod the dark paths of Verdansk, verdant ravines of Caldera, and poisonous skies of Rebirth Island.  
 
+{% include figure.html
+  class="img-right"
+  width="23%"
+  caption="The Beginning"
+  image-url="justinbeaverlake.JPG"
+  source-url="https://www.twitch.tv/cobacthegreat/clips?filter=clips&range=all"
+%}  
+
 
 {% include figure.html
 class="img-left"
-width="33%"
+width="30%"
 caption="Da Bois Droppin n' Poppin."
 image="/assets/images/droppin.jpg"
 source-url="https://oneesports.azureedge.net/cdn-data/2021/04/CallOfDuty_Warzone_Season3_GoraSummit-1024x576.jpg"
 %}
 {% include figure.html
 class="img-center"
-width="33%"
+width="30%"
 caption="Caldera Sniper Nest."
 image="/assets/snipes.jpg"
 source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzone-caldera-season-one-map-intel"
 %}
 {% include figure.html
 class="img-right"
-width="33%"
+width="30%"
 caption="Rebirth Island."
 image="/assets/Rebirth-Island-Water-Tower.jpg"
 source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
