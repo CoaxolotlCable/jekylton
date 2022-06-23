@@ -16,7 +16,7 @@ After excruciating labor and sisyphean research into the origins and alternative
 
 {% include figure.html
   class="img-left"
-  width="30%"
+  width="29%"
   caption="Verdansk Aerials"
   image-url="droppin.jpg"
   source-url="https://oneesports.azureedge.net/cdn-data/2021/04/CallOfDuty_Warzone_Season3_GoraSummit-1024x576.jpg"
@@ -24,7 +24,7 @@ After excruciating labor and sisyphean research into the origins and alternative
 
 {% include figure.html
 class="img-center"
-width="30%"
+width="29%"
 caption="Caldera Sniper Nest."
 image-url="snipes.jpg"
 source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzone-caldera-season-one-map-intel"
@@ -32,9 +32,9 @@ source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzon
 
 {% include figure.html
 class="img-right"
-width="20%"
+width="29%"
 caption="Rebirth Island Water Tower."
-image="Rebirth-Island-Water-Tower.jpg"
+image-url="Rebirth-Island-Water-Tower.jpg"
 source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
 %}  
 
