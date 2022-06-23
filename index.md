@@ -15,5 +15,26 @@ date: 2019-10-03
 After excruciating labor and sisyphean research into the origins and alternative stylings of CobacLore, this expansive virtual tome of knowledge of the unknowlable will be a lighthouse of information to those who have trod the dark paths of Verdansk, verdant ravines of Caldera, and poisonous skies of Rebirth Island.  
 
 
+{% include figure.html
+class="img-left"
+width="30%"
+caption="Here's an image on the left."
+image-url="Herder.jpg"
+source-url=""
+%}
+{% include figure.html
+class="img-right"
+width="30%"
+caption="Here's an image on the left."
+image-url="Herder.jpg"
+source-url=""
+%}
+{% include figure.html
+class="img-center"
+width="30%"
+caption="Here's an image on the left."
+image-url="Herder.jpg"
+source-url=""
+%}  
 
 For more information about how to add features to your pages, see the [getting started guide](guides/getting-started), as well as the [loading images](guides/loading-images) and [code](guides/code) guides.
