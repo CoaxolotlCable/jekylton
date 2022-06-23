@@ -28,7 +28,7 @@ width="30%"
 caption="Caldera Sniper Nest."
 image-url="snipes.jpg"
 source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzone-caldera-season-one-map-intel"
-%}
+%}  
 
 {% include figure.html
 class="img-right"
