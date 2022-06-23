@@ -34,7 +34,7 @@ source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzon
 class="img-right"
 width="29%"
 caption="Rebirth Water Tower."
-image-url="rebirth.PNG"
+image-url="rebirth.png"
 source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
 %}  
   
