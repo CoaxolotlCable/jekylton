@@ -17,7 +17,7 @@ After excruciating labor and sisyphean research into the origins and alternative
 {% include figure.html
   class="img-left"
   width="30%"
-  caption="Da Bois Droppin n' Poppin"
+  caption="Verdansk Aerials"
   image-url="droppin.jpg"
   source-url="https://oneesports.azureedge.net/cdn-data/2021/04/CallOfDuty_Warzone_Season3_GoraSummit-1024x576.jpg"
 %}
@@ -32,8 +32,8 @@ source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzon
 
 {% include figure.html
 class="img-right"
-width="30%"
-caption="Rebirth Island."
+width="25%"
+caption="Rebirth Island Water Tower."
 image="Rebirth-Island-Water-Tower.jpg"
 source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
 %}  
