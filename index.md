@@ -23,7 +23,7 @@ After excruciating labor and sisyphean research into the origins and alternative
 %}
 
 {% include figure.html
-class="img-center"
+class="img-left"
 width="25%"
 caption="Caldera Sniper Nest."
 image-url="snipes.jpg"
@@ -31,7 +31,7 @@ source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzon
 %}  
 
 {% include figure.html
-class="img-right"
+class="img-left"
 width="25%"
 caption="Rebirth Water Tower."
 image-url="rebirth.png"
