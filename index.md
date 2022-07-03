@@ -6,7 +6,7 @@ date: 2019-10-03
 
 {% include jumbotron.html
   title="Official Cobac Lore"
-  text="This site is the ultimate lexicon of any and all available Lore, Mythos, and Legend of the inexorable Cobac "
+  text="This site is the ultimate lexicon of any and all available lore and legend of Cobac "
   caption=""
   image="/assets/images/scholarhogan1.JPEG"
 %}
