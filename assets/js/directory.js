@@ -10,9 +10,9 @@ function getPages(callback) {
   console.log("starting getPages");
     // The spreadsheet must be either "visible to anyone with the link", or "public on the web".
 
-    //https://docs.google.com/spreadsheets/d/1eqfXP4S2ua8UyV8u7NVChTrEBdn2Q0T5eH52h6WHW6w/edit?usp=sharing#gid=0;
+    //https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit?usp=sharing#gid=0;
     var sheetURL =
-    "https://docs.google.com/spreadsheets/d/1eqfXP4S2ua8UyV8u7NVChTrEBdn2Q0T5eH52h6WHW6w/edit?usp=sharing#gid=0"
+    "https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit?usp=sharing#gid=0"
     var pages = [];
     $('#sheetrock').sheetrock({
         url: sheetURL,
