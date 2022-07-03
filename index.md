@@ -16,7 +16,7 @@ After excruciating labor and sisyphean research into the origins and alternative
 
 {% include figure.html
   class="img-left"
-  width="25%"
+  width="30%"
   caption="Verdansk Aerials"
   image-url="droppin.jpg"
   source-url="https://oneesports.azureedge.net/cdn-data/2021/04/CallOfDuty_Warzone_Season3_GoraSummit-1024x576.jpg"
@@ -24,7 +24,7 @@ After excruciating labor and sisyphean research into the origins and alternative
 
 {% include figure.html
 class="img-left"
-width="25%"
+width="30%"
 caption="Caldera Sniper Nest."
 image-url="snipes.jpg"
 source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzone-caldera-season-one-map-intel"
@@ -32,12 +32,12 @@ source-url="https://www.callofduty.com/blog/2021/11/call-of-duty-vanguard-warzon
 
 {% include figure.html
 class="img-left"
-width="25%"
+width="30%"
 caption="Rebirth Water Tower."
 image-url="rebirth.png"
 source-url="https://pvplive.net/cod-warzone-rebirth-island-only-support-forty-players/"
 %}  
   
     
-      
+        
 For more information about how to add features to your pages, see the [getting started guide](guides/getting-started), as well as the [loading images](guides/loading-images) and [code](guides/code) guides.
