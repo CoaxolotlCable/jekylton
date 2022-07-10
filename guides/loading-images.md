@@ -168,12 +168,12 @@ We will need an extra GoogleSheet to pull information.
 - *Refer to View Only “Jekylton Directory Data” Shared by Fred Gibbs*
 - Copy the contents and past into your own document.
 - Rename the file YOURNAMEJEKYLTON.
-- Replace names under map-title with your own POI.
-- Under Card Description write a short missive about your POI.
+- Replace names under map-title with your own Points Of Intrest.
+- Under Card Description write a short missive about your Points Of Intrest.
 - Under Essay Slug keep the same name as your map title.
 - **MAKE SURE TO** update you Image File Names correctly. Keep them simple.
 - Edit your image file names correctly and upload them to the ESSAYS folder.
 - **Copy** and **Paste** your image file name to the Image File Tab **in your GoogleSheets**
-- Wait for Github page to load your new information.
+- Wait for Github pages to load your new information.
 
 
