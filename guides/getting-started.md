@@ -30,6 +30,7 @@ These instructions explain how a GitHub Pages site works. It describes files and
 - Rather than create everything from scratch, start with a basic set of core files. Use Jekylton (this site) as a template. Go to the [jekylton repository](http://github.com/fredgibbs/jekylton)
 - Click the green "Use this Template" button
 - Name your repository. I'd recommend `jekylton` for now. You can always rename it later or delete it and start over
+- Press 'Create Repository from template'
 - Go into the settings menu (the gear menu on the right of the top nav bar)
 - Scroll down to section titled "GitHub Pages" (the penultimate section)
 - Select / from master branch and click save
